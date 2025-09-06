@@ -1,7 +1,0 @@
-C:\לימודים\תרגיל 8200\obj\Debug\תרגיל 8200.csproj.AssemblyReference.cache
-C:\לימודים\תרגיל 8200\obj\Debug\תרגיל 8200.csproj.CoreCompileInputs.cache
-C:\לימודים\תרגיל 8200\bin\Debug\תרגיל 8200.exe.config
-C:\לימודים\תרגיל 8200\bin\Debug\תרגיל 8200.exe
-C:\לימודים\תרגיל 8200\bin\Debug\תרגיל 8200.pdb
-C:\לימודים\תרגיל 8200\obj\Debug\תרגיל 8200.exe
-C:\לימודים\תרגיל 8200\obj\Debug\תרגיל 8200.pdb
