@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "תרגיל 8200", "תרגיל 8200.csproj", "{4FBE8C9C-4290-4B26-82E0-7EB86C6621FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FBE8C9C-4290-4B26-82E0-7EB86C6621FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBE8C9C-4290-4B26-82E0-7EB86C6621FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBE8C9C-4290-4B26-82E0-7EB86C6621FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBE8C9C-4290-4B26-82E0-7EB86C6621FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17E5E6F1-5705-41BC-BE15-F10DE7DE5ECE}
+	EndGlobalSection
+EndGlobal
