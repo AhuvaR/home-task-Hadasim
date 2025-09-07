@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-namespace תרגיל_8200
+namespace תרגיל_יחידה
 {
     public static class q3
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace תרגיל_8200
+namespace תרגיל_יחידה
 {
     public static class q1
     {
